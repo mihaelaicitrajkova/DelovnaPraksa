@@ -45,3 +45,5 @@ docker compose up --build
 ```
 
 Страницата ќе биде достапна на `http://localhost:3000`.
+
+За RepoRun, користете `docker-compose.yml` и `stack.yml` во коренот на репозиториумот. Ingress сервисот е `mostari` на порта `3000`.
